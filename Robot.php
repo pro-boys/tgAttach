@@ -9,10 +9,10 @@
     set_time_limit(0);
 	ob_implicit_flush(1);
 	
-	$telegram_api = " T * O * K * E * N ";
+	$telegram_api = "727457821:AAF4-bP2mQwbW5GJMVn9kirX-PFBpztmvIs";
 	define('API',$telegram_api);
 	// Robot Administrator
-	$ADMINS = ['********','********'];
+	$ADMINS = ['646146866','956344127'];
 	// Attach Channel
   $attachChannel = "@*****";
 	// Your Channel
